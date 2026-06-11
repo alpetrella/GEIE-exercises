@@ -1,0 +1,20 @@
+# Cartelle temporanee e di build di Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+FileOpenOrder/
+
+# File di configurazione dell'utente e script locali
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# File di crash report e log
+*.log
